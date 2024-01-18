@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.clocks {
+  display: flex;
+  gap: 5rem;
+  justify-content: center;
+  color: lightgreen;
+  padding: 2em;
+}
+
+.timers {
+  display: flex;
+  gap: 5rem;
+  justify-content: center;
+  color: coral;
+  padding: 2em;
+}
